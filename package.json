@@ -1,0 +1,18 @@
+{
+	"name": "codepen-embed",
+	"version": "1.0.0",
+	"description": "A highly configurable, customizable CodePen embed plugin for Next.js and React applications.",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"keywords": [],
+	"author": "Peter Benoit <peterbenoit@gmail.com>",
+	"license": "ISC",
+	"dependencies": {
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1",
+		"vite": "^5.4.2"
+	}
+}
